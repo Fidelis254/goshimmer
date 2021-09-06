@@ -1,4 +1,4 @@
-name: Manually Triggered Docker Image
+name: Automated Triggered Docker Image
 
 on: push
 
