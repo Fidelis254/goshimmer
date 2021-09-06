@@ -1,6 +1,6 @@
 name: Manually Triggered Docker Image
 
-on: workflow_dispatch
+on: push
 
 jobs:
 
