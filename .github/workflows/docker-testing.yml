@@ -19,4 +19,4 @@ jobs:
             repository: fidelis254/goshimer
             username: '${{ secrets.FIDEL_HUB_DOCKER_LOGIN }}'
             password: '${{ secrets.FIDEL_HUB_DOCKER_PASSWORD }}'
-            tags: testing
+            tags: Fidel_iota_latest
